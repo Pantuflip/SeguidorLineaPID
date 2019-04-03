@@ -1,0 +1,2 @@
+https://plcgurus.net/implement-controllogix-pid-controller/
+Link donde se puede ver una explicación de la ecuación del PID del PLC de Rockwell
